@@ -10,3 +10,5 @@ learn syntax
 ### the smalest
 
 ## 
+
+Adding icons it's fun! :smile: 
