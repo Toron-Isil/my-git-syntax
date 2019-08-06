@@ -1,4 +1,4 @@
-# my-git-syntax
+# my-git-syntax (with pizza picture)
 learn syntax
 
 ## Heading
